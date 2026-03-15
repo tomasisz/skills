@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/
+node_modules/
+Bustabit/
+bustabit-next/
+daily_stock_analysis/
+Fear-Greed-Index/
+greeks-live-boardgame/
+Mr_Chartist/
+OpenBB-Alice/
+skills-stock/
+telegram-bookkeeping/
+typing-master/
+worldmonitor/
+antigravity-kit/
+startup_technical_guide_ai_agents_zh.md
+startup_text.txt
